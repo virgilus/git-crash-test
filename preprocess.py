@@ -3,13 +3,11 @@ import pandas as pd
 df = pd.read_csv("../data/dataset.csv")
 print(df.describe())
 
-<<<<<<< HEAD
+# Average score
+average_score = df['score'].mean()
+print("Average score:", average_score)
 #added by Clémentine
 print("Average score:", df["score"].mean()) 
-=======
-# Added by Giovanni
-print("Average score:", df["score"].mean())
->>>>>>> main
 while True:
     print(df.describe())
 print(df.describe())
