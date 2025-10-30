@@ -8,3 +8,4 @@ print(df.describe())
 
 print (f"average age : {dataset["age"].mean()}")
 
+# add by Lara
