@@ -3,5 +3,6 @@ import pandas as pd
 df = pd.read_csv("../data/dataset.csv")
 print(df.describe())
 
-# Added by Gouaref
-print("Average score:", df["score"].mean())
+
+print (f"average age : {dataset["age"].mean()}")
+
