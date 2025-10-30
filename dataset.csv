@@ -1,4 +1,12 @@
+
 id,name,age,score
 1,Alice,23,87
 2,Bob,25,90
+<<<<<<< HEAD
 3,Charlie,22,783,mrdol,12,67
+=======
+3,Charlie,22,78
+https://www.youtube.com/watch?v=YAgJ9XugGBo, https://www.youtube.com/shorts/qBQLsw6jots, 69, 493
+4,Romulus,42,100
+5,Charlie,22,784,Gouaref,24,85
+>>>>>>> main
