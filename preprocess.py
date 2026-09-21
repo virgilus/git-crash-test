@@ -12,3 +12,6 @@ print("Average score:", df["score"].mean())
 =======
 # Added by Rodrigo
 print("Average score:", df["score"].mean())
+
+#Added by Ebube
+print("Average score:", df["score"].mean())
