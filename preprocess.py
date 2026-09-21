@@ -9,3 +9,6 @@ print(df['age'].mean())
 #Added by Vicente
 print("Average score:", df["score"].mean())
 >>>>>>> main
+=======
+# Added by Rodrigo
+print("Average score:", df["score"].mean())
