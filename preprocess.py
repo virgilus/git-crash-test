@@ -20,3 +20,6 @@ print("Adubea Average score:", df["score"].mean())
 
 # Added by Wael
 print("Average score:", df["score"].mean())
+
+#Added by Martin
+print("Score moyen:", df["score"].mean())
