@@ -19,3 +19,9 @@ print("Average score:", df["score"].mean())
 
 #Added by Adubea
 print("Adubea Average score:", df["score"].mean())
+<<<<<<< HEAD
+=======
+
+# Added by Wael
+print("Average score:", df["score"].mean())
+>>>>>>> origin/main
