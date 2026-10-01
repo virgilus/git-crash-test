@@ -2,10 +2,26 @@ import pandas as pd
 
 df = pd.read_csv("dataset.csv")
 print(df.describe())
-<<<<<<< HEAD
+# Added by Ihab-Abumustafa
+print("Average score:", df["score"].mean())
+
 # Virgile
 print(df['age'].mean())
-=======
+
 #Added by Vicente
 print("Average score:", df["score"].mean())
->>>>>>> main
+
+# Added by Rodrigo
+print("Average score:", df["score"].mean())
+
+#Added by Ebube
+print("Average score:", df["score"].mean())
+
+#Added by Adubea
+print("Adubea Average score:", df["score"].mean())
+<<<<<<< HEAD
+=======
+
+# Added by Wael
+print("Average score:", df["score"].mean())
+>>>>>>> origin/main
