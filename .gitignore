@@ -1,2 +1,5 @@
-secrets.txt
-data/
+
+this_one_shouldn't_be_tracked.txt
+this_one_should_be_tracked.txt
+
+
