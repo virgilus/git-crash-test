@@ -2,6 +2,8 @@ id,name,favorite sport,favorite musician,score
 1,Alice,tennis,J-S Bach, 87
 2,Bob,football,the Beatles, 90
 3,Charlie,trail running,Chet Baker, 78
+4,Dario,volleyball,Rolling Stones, 99
+5,Hamza,MMA,Samir loussif, 69
 4,Jean-Luc,equitation,Oklou, 85
 5,Dario,volleyball,Rolling Stones, 99
 6,Theo,swimming,RDN, 100
@@ -10,5 +12,6 @@ id,name,favorite sport,favorite musician,score
 4,Chiara,tennis,,100
 4,Jean-Luc,equitation,Oklou, 85
 4,Dario,volleyball,Rolling Stones, 99
+5,Daignon-Max,football,Burna Boy, 95
 50,Zardriiuss,football,95
 5,Daignon-Max,football,Burna Boy, 95
