@@ -1,4 +1,4 @@
-id,name,favorite sport,favorite musician,score
+5,Gildas,football,Gims,95
 1,Alice,tennis,J-S Bach, 87
 2,Bob,football,the Beatles, 90
 3,Charlie,trail running,Chet Baker, 78
@@ -16,3 +16,4 @@ id,name,favorite sport,favorite musician,score
 50,Zardriiuss,football,95
 5,Daignon-Max,football,Burna Boy, 95
 8,Damien,swimming,Gorillaz, 89
+4, Aubin Espins, JJB, Hans zimmer, 99
