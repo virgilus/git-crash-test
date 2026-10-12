@@ -8,7 +8,18 @@ id,name,favorite sport,favorite musician,score
 =======
 <<<<<<< HEAD
 4,Jean-Luc,equitation,Oklou, 85
+5,Dario,volleyball,Rolling Stones, 99
+6,Theo,swimming,RDN, 100
+
 =======
+42,Lorenzo,swimming,Fred again,2
+4,Dario,volleyball,Rolling Stones, 99
+4,Chiara,tennis,,100
+4,Jean-Luc,equitation,Oklou, 85
 4,Dario,volleyball,Rolling Stones, 99
 >>>>>>> main
+<<<<<<< HEAD
+>>>>>>> main
+=======
+5,Daignon-Max,football,Burna Boy, 95
 >>>>>>> main
