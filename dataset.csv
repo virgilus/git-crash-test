@@ -3,7 +3,12 @@ id,name,favorite sport,favorite musician,score
 2,Bob,football,the Beatles, 90
 3,Charlie,trail running,Chet Baker, 78
 <<<<<<< HEAD
+4,Chiara,tennis,,100
+
+=======
+<<<<<<< HEAD
 4,Jean-Luc,equitation,Oklou, 85
 =======
 4,Dario,volleyball,Rolling Stones, 99
+>>>>>>> main
 >>>>>>> main
