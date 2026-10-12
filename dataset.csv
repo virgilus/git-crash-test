@@ -1,8 +1,9 @@
-5,Gildas,football,Gims,95
 1,Alice,tennis,J-S Bach, 87
 2,Bob,football,the Beatles, 90
 3,Charlie,trail running,Chet Baker, 78
 4,Dario,volleyball,Rolling Stones, 99
+5,Gildas,football,Gims,95
+6,Hamza,MMA,Samir loussif, 69
 5,Hamza,MMA,Samir loussif, 69
 4,Jean-Luc,equitation,Oklou, 85
 5,Dario,volleyball,Rolling Stones, 99
@@ -21,6 +22,8 @@
 9,Chiara,tennis,,100
 10,Daignon-Max,football,Burna Boy, 95
 11, Aubin Espins, JJB, Hans zimmer, 99
+12,Jean-Luc,equitation,Oklou, 85
+13,virgile,ping-pong,Django Reinhardt, 92
 30, Alex, Football, , 99
 12, virgile test merging, bla bla, bli, 12
 
