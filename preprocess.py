@@ -5,3 +5,6 @@ print(df.describe())
 
 # Added by Dario
 print("Average score:", df["score"].mean())
+
+#Added by Théo
+print('Average score:', df['score'].mean())
