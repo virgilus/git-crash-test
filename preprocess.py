@@ -10,3 +10,7 @@ print("Average score:", df["score"].mean())
 print("Min score:", df["score"].min())
 # Added by Aubin
 print("Average score:", df["score"].sum())
+
+# Added by Gildas 
+
+print("Max score:", df["score"].max())
